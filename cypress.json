@@ -1,0 +1,4 @@
+{
+    "baseUrl": "https://www.linio.com.pe/",
+    "testFiles" : "**/*.feature"
+}

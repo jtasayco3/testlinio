@@ -1,0 +1,52 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Home Linio",
+    "line": 1,
+    "id": "home-linio",
+    "tags": [],
+    "uri": "linio.feature",
+    "elements": [
+      {
+        "id": "home-linio;seleccionando-producto-para-una-compra",
+        "keyword": "Scenario",
+        "line": 3,
+        "name": "Seleccionando Producto para una compra",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "A user enters to the home Linio",
+            "result": {
+              "status": "passed",
+              "duration": 2710000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "A user add Laptops",
+            "result": {
+              "status": "passed",
+              "duration": 5724000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "Results view in page",
+            "result": {
+              "status": "passed",
+              "duration": 19000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

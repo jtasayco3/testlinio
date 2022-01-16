@@ -15,6 +15,7 @@ When ('A user add Laptops', ()=> {
     cy.get('.sort-by-title').click()
     cy.get('#sortBy-body > ul > :nth-child(2) > label > .link-low-sm').click()
     cy.url().should('eq', 'https://www.linio.com.pe/c/portatiles/notebooks?brand=Apple&sortBy=price_asc')
+
 })
 
 Then ('Results view in page', ()=>{

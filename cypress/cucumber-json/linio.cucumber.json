@@ -22,7 +22,7 @@
             "name": "A user enters to the home Linio",
             "result": {
               "status": "passed",
-              "duration": 2959000000
+              "duration": 3692000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "A user add Laptops",
             "result": {
               "status": "passed",
-              "duration": 4890000000
+              "duration": 7525000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "Results view in page",
             "result": {
               "status": "passed",
-              "duration": 14000000
+              "duration": 19000000
             }
           }
         ]
